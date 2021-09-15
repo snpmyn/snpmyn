@@ -5,6 +5,13 @@
 
 Here are some ideas to get you started:
 -->
+<p align="left">
+<img src="https://img.shields.io/badge/language-java-red.svg"/>  
+<img src="https://img.shields.io/badge/language-kotlin-orange.svg"/>
+<img src="https://img.shields.io/badge/language-dart-blue.svg"/>
+<img src="https://img.shields.io/badge/license-Apache-blue"/>
+<img src="https://img.shields.io/badge/Gmail-snpmyn@gmail.com-green"/>
+</p>
 
 - 🔭 I’m currently working on BOC
 - 🌱 I’m currently learning Kotlin
