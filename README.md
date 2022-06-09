@@ -48,12 +48,12 @@ Here are some ideas to get you started:
 </p>
 
 <details>
-  <summary><b>:telescope: 2021 goal</b></summary>
+  <summary><b>:telescope: 2022 goal</b></summary>
   I didn't complete my 2020 goal, but it was a crazy different year 😂 In 2021.
 </details>
 
 <details>
-  <summary><b>:skull: 2020 goal</b></summary>
+  <summary><b>:skull: 2021 goal</b></summary>
   I want to make a little application this year.
 </details>
 -->
