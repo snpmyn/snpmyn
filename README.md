@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 <details>
   <summary><b>:telescope: 2022 goal</b></summary>
-  I didn't complete my 2020 goal, but it was a crazy different year 😂 In 2021.
+  I didn't complete my 2021 goal, but it was a crazy different year 😂 In 2022.
 </details>
 
 <details>
