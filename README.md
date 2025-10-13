@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Gmail-snpmyn@gmail.com-green"/>
 </p>
 
-- 🔭 I’m currently working on BOC -> HOME
+- 🔭 I’m currently working on BOC | but now in home
 - 🌱 I’m currently learning Kotlin
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
